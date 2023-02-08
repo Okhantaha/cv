@@ -1,0 +1,26 @@
+body {background-color: #EAF6F6; }
+
+hr {border-style: none; border-top-style: dotted; border-color: grey; border-width: 5px;}
+
+h1{color: red;}    
+
+
+.education {
+    color: cornflowerblue;
+}
+
+.workexperience {
+    color: rgb(241, 23, 241);
+}
+
+.skills {
+    color: #006600
+}
+
+.myhobbies {
+    color: cornflowerblue;
+}
+
+.contact {
+    color: rgb(241, 23, 241);
+}
